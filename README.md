@@ -13,7 +13,4 @@ A simple web-based Age Calculator that allows users to enter their date of birth
 
 ## ⚙️ Installation & Usage  
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/age-calculator-web.git
 
-# Open the index.html file in a browser
